@@ -1,0 +1,16 @@
+# Generated plots and GIFs
+oxygen_maps/
+oxygen_maps_combined/
+*_maps_*/
+*.gif
+*.png
+
+# Python/cache junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment folders
+.pixi/
+.venv/
+venv/
